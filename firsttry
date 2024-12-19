@@ -1,7 +1,7 @@
 echo "# PJFERNANDEZ" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "1st first commit"
 git branch -M main
 git remote add origin https://github.com/pferna89/PJFERNANDEZ.git
 git push -u origin main
